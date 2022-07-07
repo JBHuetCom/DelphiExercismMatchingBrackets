@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="D:\Projets\Exercism\delphi\matching-brackets\MatchingBrackets.exe" total="17" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2021-11-05" time="0.002">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="MatchingBrackets.exe" executed="true" result="Success" success="True" time="0.002" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uMatchingBracketsTests" executed="true" result="Success" success="True" time="0.002" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TMatchingBracketTest" executed="True" result="Success" success="True" time="0.002" >
+                <results>
+                  <test-case name="paired_square_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="empty_string" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="unpaired_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="wrong_ordered_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="wrong_closing_bracket" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="paired_with_whitespace" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="partially_paired_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="simple_nested_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="several_paired_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="paired_and_nested_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="unopened_closing_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="unpaired_and_nested_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="paired_and_wrong_nested_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="paired_and_incomplete_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="too_many_closing_brackets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="math_expression" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="complex_latex_expression" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
